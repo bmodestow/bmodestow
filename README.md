@@ -1,6 +1,5 @@
 # Hi there! I'm Benjamin Wilson
-##🔭 I’m currently working on Long Rest!
-##🌱 I’m currently learning AWS.
+🔭 I’m currently working on Long Rest and I’m currently learning AWS. 🌱
 
 <!--
 **bmodestow/bmodestow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
